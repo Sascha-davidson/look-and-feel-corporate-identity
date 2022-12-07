@@ -2,21 +2,16 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# look and feel living styleguide
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+![image](https://user-images.githubusercontent.com/112861160/204285477-91ac13aa-5d31-41bd-a82f-6d359ec15385.png)
 
-## Bronnen
 
-## Licentie
+# Mijn huistyle pagina (Input)
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+![image](https://user-images.githubusercontent.com/112861160/204285085-2c636c5f-c066-44f3-8874-cd0b799af938.png)
 
-This work is licensed under [GNU GPLv3](./LICENSE).
+![image](https://user-images.githubusercontent.com/112861160/204285327-787bb833-91dc-4b1a-9325-89ebb24b8009.png)
+
+![image](https://user-images.githubusercontent.com/112861160/204285370-0289c4b4-f4df-42a1-bffd-9ac56379eba8.png)
