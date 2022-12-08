@@ -1690,7 +1690,6 @@ input[type=week] {
   border-radius: 5px;
   border: 4px solid var(--c-white);
   padding: 5px 10px;
-  background-color: var();
 }
 
 .input-type-styling .display-code [type=checkbox] {
